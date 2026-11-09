@@ -15,6 +15,10 @@ Aplikasi manajemen tugas kelas dengan dua peran: **guru** dan **siswa**.
 | Frontend  | Vue 3, Vue Router, Vite 7                      |
 | Autentikasi | Bearer token (Laravel Sanctum)                |
 
+## Catatan Penggunaan AI
+
+Bagian **frontend** pada proyek ini dikembangkan dengan bantuan AI. Seluruh hasilnya tetap ditinjau, dijalankan, dan diverifikasi secara manual, termasuk pengujian alur autentikasi, CRUD tugas, pencarian, filter status, dan paginasi.
+
 ## Struktur Proyek
 
 ```
